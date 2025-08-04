@@ -1,4 +1,6 @@
-streamlit
 pandas
+streamlit
 scikit-learn
 joblib
+gspread
+oauth2client
