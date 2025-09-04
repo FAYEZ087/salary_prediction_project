@@ -10,7 +10,7 @@ st.set_page_config(page_title="Salary Predictor", page_icon="💼", layout="cent
 
 # ------------------ Sidebar ------------------ #
 with st.sidebar:
-    st.image("https://cdn-icons-png.flaticon.com/512/1077/1077114.png", width=100)
+    st.image("https://attackofthefanboy.com/wp-content/uploads/2022/11/Manjiro-Sano-Tokyo-Revengers-Characters.jpg", width=100)
     st.title("💼 Salary Predictor")
     st.markdown("""
     This app predicts salaries based on:
