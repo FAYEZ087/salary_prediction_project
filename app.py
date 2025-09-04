@@ -56,7 +56,7 @@ if st.button("💰 Predict Salary"):
         st.markdown(f"""
         <div style="background-color:#e8f5e9;padding:20px;border-radius:10px">
             <h3 style="color:#2e7d32;">Predicted Salary:</h3>
-            <h1 style="color:#1b5e20;">₹ {prediction:,.2f}</h1> per month
+            <h1 style="color:#1b5e20;">₹ {prediction:,.2f per month}</h1>
         </div>
         """, unsafe_allow_html=True)
     except Exception as e:
